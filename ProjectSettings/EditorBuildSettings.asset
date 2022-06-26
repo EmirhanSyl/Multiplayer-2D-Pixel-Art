@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/FreshStart/Scenes/LoadingScene.unity
+    guid: 0e085b806f5880447aa0bafefcf123c0
+  - enabled: 1
+    path: Assets/FreshStart/Scenes/Lobby.unity
+    guid: 910c9234ca32eec4192fafa6ba48822c
+  - enabled: 1
+    path: Assets/FreshStart/Scenes/FightArea.unity
+    guid: e094ab6d3cdb5ec4abb8e86df9ab4525
+  - enabled: 1
+    path: Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Scenes/PunBasics-Room
+      for 1.unity
+    guid: 9b8561c6e396849a5ba48c3eb9524049
+  m_configObjects: {}

@@ -1,0 +1,4746 @@
+fileFormatVersion: 2
+guid: 2a27fcf66a16bc34abab4cd450e842fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5956602105442174248
+    second: Natural Things Tilemap_0
+  - first:
+      213: 8834253626614664936
+    second: Natural Things Tilemap_1
+  - first:
+      213: -6063530302585573812
+    second: Natural Things Tilemap_2
+  - first:
+      213: -7689272828747769772
+    second: Natural Things Tilemap_3
+  - first:
+      213: 7367913857121049049
+    second: Natural Things Tilemap_4
+  - first:
+      213: 7138852406143608141
+    second: Natural Things Tilemap_5
+  - first:
+      213: 843440852709687414
+    second: Natural Things Tilemap_6
+  - first:
+      213: -1216474100531583130
+    second: Natural Things Tilemap_7
+  - first:
+      213: 7500539976145050406
+    second: Natural Things Tilemap_8
+  - first:
+      213: -2525360758741011284
+    second: Natural Things Tilemap_9
+  - first:
+      213: -8348440023325719522
+    second: Natural Things Tilemap_10
+  - first:
+      213: -6067506765504620267
+    second: Natural Things Tilemap_11
+  - first:
+      213: -3527074713760637412
+    second: Natural Things Tilemap_12
+  - first:
+      213: 1804792374817204042
+    second: Natural Things Tilemap_13
+  - first:
+      213: 4095761728301772217
+    second: Natural Things Tilemap_14
+  - first:
+      213: -2018662835710110029
+    second: Natural Things Tilemap_15
+  - first:
+      213: -6185392478474339612
+    second: Natural Things Tilemap_16
+  - first:
+      213: -933614329159302097
+    second: Natural Things Tilemap_17
+  - first:
+      213: 8606578663083794790
+    second: Natural Things Tilemap_18
+  - first:
+      213: 2987830576129104340
+    second: Natural Things Tilemap_19
+  - first:
+      213: 651949898672214701
+    second: Natural Things Tilemap_20
+  - first:
+      213: 9045833036154924569
+    second: Natural Things Tilemap_21
+  - first:
+      213: -231431437986460657
+    second: Natural Things Tilemap_22
+  - first:
+      213: -3911719127967626873
+    second: Natural Things Tilemap_23
+  - first:
+      213: -6671270821009469315
+    second: Natural Things Tilemap_24
+  - first:
+      213: 7434266517284932595
+    second: Natural Things Tilemap_25
+  - first:
+      213: 2417314662535263117
+    second: Natural Things Tilemap_26
+  - first:
+      213: -8878543754976422237
+    second: Natural Things Tilemap_27
+  - first:
+      213: -8913228283800791977
+    second: Natural Things Tilemap_28
+  - first:
+      213: -6934064011281900173
+    second: Natural Things Tilemap_29
+  - first:
+      213: 119569509163104281
+    second: Natural Things Tilemap_30
+  - first:
+      213: 6145360846589152203
+    second: Natural Things Tilemap_31
+  - first:
+      213: -4952017291137712642
+    second: Natural Things Tilemap_32
+  - first:
+      213: -867317502608377396
+    second: Natural Things Tilemap_33
+  - first:
+      213: -551371562726894577
+    second: Natural Things Tilemap_34
+  - first:
+      213: -6989095007662121655
+    second: Natural Things Tilemap_35
+  - first:
+      213: -7172948594765109792
+    second: Natural Things Tilemap_36
+  - first:
+      213: 1223183334192860504
+    second: Natural Things Tilemap_37
+  - first:
+      213: 8462118663615770616
+    second: Natural Things Tilemap_38
+  - first:
+      213: 756811705355567249
+    second: Natural Things Tilemap_39
+  - first:
+      213: -1761468311337883727
+    second: Natural Things Tilemap_40
+  - first:
+      213: 4922773246015806636
+    second: Natural Things Tilemap_41
+  - first:
+      213: -3850979668552019599
+    second: Natural Things Tilemap_42
+  - first:
+      213: 4469683019981250508
+    second: Natural Things Tilemap_43
+  - first:
+      213: 2127321908057902947
+    second: Natural Things Tilemap_44
+  - first:
+      213: -2964896493665553803
+    second: Natural Things Tilemap_45
+  - first:
+      213: -4984622819315791786
+    second: Natural Things Tilemap_46
+  - first:
+      213: -3265214243503492349
+    second: Natural Things Tilemap_47
+  - first:
+      213: -3219338331520571854
+    second: Natural Things Tilemap_48
+  - first:
+      213: -3262101319408237044
+    second: Natural Things Tilemap_49
+  - first:
+      213: -3509938193011235790
+    second: Natural Things Tilemap_50
+  - first:
+      213: 9217199471620402651
+    second: Natural Things Tilemap_51
+  - first:
+      213: 788810010233118007
+    second: Natural Things Tilemap_52
+  - first:
+      213: -1402478181642627879
+    second: Natural Things Tilemap_53
+  - first:
+      213: -7265700606640294092
+    second: Natural Things Tilemap_54
+  - first:
+      213: 8809372916240975163
+    second: Natural Things Tilemap_55
+  - first:
+      213: 2931679181899003110
+    second: Natural Things Tilemap_56
+  - first:
+      213: 8085951983819894944
+    second: Natural Things Tilemap_57
+  - first:
+      213: -7749022487779483515
+    second: Natural Things Tilemap_58
+  - first:
+      213: -1866675499053986419
+    second: Natural Things Tilemap_59
+  - first:
+      213: 6489164053889246946
+    second: Natural Things Tilemap_60
+  - first:
+      213: 4974527761365549336
+    second: Natural Things Tilemap_61
+  - first:
+      213: -8268883240728094801
+    second: Natural Things Tilemap_62
+  - first:
+      213: 4705536321944533201
+    second: Natural Things Tilemap_63
+  - first:
+      213: 2619695836091508346
+    second: Natural Things Tilemap_64
+  - first:
+      213: -6092467585672764255
+    second: Natural Things Tilemap_65
+  - first:
+      213: -2481562856329580458
+    second: Natural Things Tilemap_66
+  - first:
+      213: -597368669123012957
+    second: Natural Things Tilemap_67
+  - first:
+      213: 9097096185162317426
+    second: Natural Things Tilemap_68
+  - first:
+      213: -1344488303201722270
+    second: Natural Things Tilemap_69
+  - first:
+      213: -5156076782304276793
+    second: Natural Things Tilemap_70
+  - first:
+      213: 6598623255181952082
+    second: Natural Things Tilemap_71
+  - first:
+      213: -6026715398840336324
+    second: Natural Things Tilemap_72
+  - first:
+      213: -1523301371102011457
+    second: Natural Things Tilemap_73
+  - first:
+      213: 845830127350196546
+    second: Natural Things Tilemap_74
+  - first:
+      213: -7685585011249748494
+    second: Natural Things Tilemap_75
+  - first:
+      213: 4117529879013998247
+    second: Natural Things Tilemap_76
+  - first:
+      213: -2858741355848088448
+    second: Natural Things Tilemap_77
+  - first:
+      213: -444015038203898340
+    second: Natural Things Tilemap_78
+  - first:
+      213: -4659755186005173900
+    second: Natural Things Tilemap_79
+  - first:
+      213: 1896313758236251137
+    second: Natural Things Tilemap_80
+  - first:
+      213: 5485725444809687628
+    second: Natural Things Tilemap_81
+  - first:
+      213: -3925754946754898509
+    second: Natural Things Tilemap_82
+  - first:
+      213: 440399782271010987
+    second: Natural Things Tilemap_83
+  - first:
+      213: 2369430666170480668
+    second: Natural Things Tilemap_84
+  - first:
+      213: 1453331630917624087
+    second: Natural Things Tilemap_85
+  - first:
+      213: 3186679289623394009
+    second: Natural Things Tilemap_86
+  - first:
+      213: 1435470674098094058
+    second: Natural Things Tilemap_87
+  - first:
+      213: 7726425439845593945
+    second: Natural Things Tilemap_88
+  - first:
+      213: -2924351429160595686
+    second: Natural Things Tilemap_89
+  - first:
+      213: -1583792720373459131
+    second: Natural Things Tilemap_90
+  - first:
+      213: -8262535224559009230
+    second: Natural Things Tilemap_91
+  - first:
+      213: -2915492665147905865
+    second: Natural Things Tilemap_92
+  - first:
+      213: 5681987153515851143
+    second: Natural Things Tilemap_93
+  - first:
+      213: -3740050289732388987
+    second: Natural Things Tilemap_94
+  - first:
+      213: -8488678387943061837
+    second: Natural Things Tilemap_95
+  - first:
+      213: -4546410038694771877
+    second: Natural Things Tilemap_96
+  - first:
+      213: -1619022298891540094
+    second: Natural Things Tilemap_97
+  - first:
+      213: 2898446139997782110
+    second: Natural Things Tilemap_98
+  - first:
+      213: -5849089898764793903
+    second: Natural Things Tilemap_99
+  - first:
+      213: -256311137240367430
+    second: Natural Things Tilemap_100
+  - first:
+      213: -559129868368745749
+    second: Natural Things Tilemap_101
+  - first:
+      213: -8380138218501779943
+    second: Natural Things Tilemap_102
+  - first:
+      213: 2846116771120235291
+    second: Natural Things Tilemap_103
+  - first:
+      213: 4526360690720304475
+    second: Natural Things Tilemap_104
+  - first:
+      213: -6392223811850296570
+    second: Natural Things Tilemap_105
+  - first:
+      213: -3623499656479801446
+    second: Natural Things Tilemap_106
+  - first:
+      213: 1348031987154917990
+    second: Natural Things Tilemap_107
+  - first:
+      213: 5817644501924206809
+    second: Natural Things Tilemap_108
+  - first:
+      213: 34045046404103062
+    second: Natural Things Tilemap_109
+  - first:
+      213: 3840144251900481408
+    second: Natural Things Tilemap_110
+  - first:
+      213: -5646264682660619105
+    second: Natural Things Tilemap_111
+  - first:
+      213: 4908822027651696098
+    second: Natural Things Tilemap_112
+  - first:
+      213: 8029584314260379654
+    second: Natural Things Tilemap_113
+  - first:
+      213: 3419487749034932700
+    second: Natural Things Tilemap_114
+  - first:
+      213: -2836895598020555876
+    second: Natural Things Tilemap_115
+  - first:
+      213: -9067265948731301303
+    second: Natural Things Tilemap_116
+  - first:
+      213: 6251042615211690236
+    second: Natural Things Tilemap_117
+  - first:
+      213: -6387224330258103362
+    second: Natural Things Tilemap_118
+  - first:
+      213: 1335457021898219227
+    second: Natural Things Tilemap_119
+  - first:
+      213: 3061060795794024606
+    second: Natural Things Tilemap_120
+  - first:
+      213: -3340699438884039920
+    second: Natural Things Tilemap_121
+  - first:
+      213: -1233080756756147828
+    second: Natural Things Tilemap_122
+  - first:
+      213: -5683801963839052442
+    second: Natural Things Tilemap_123
+  - first:
+      213: -3867710495614090655
+    second: Natural Things Tilemap_124
+  - first:
+      213: 5181866761995210719
+    second: Natural Things Tilemap_125
+  - first:
+      213: 2683355435888261127
+    second: Natural Things Tilemap_126
+  - first:
+      213: 7828393567491304845
+    second: Natural Things Tilemap_127
+  - first:
+      213: -5382001460926410058
+    second: Natural Things Tilemap_128
+  - first:
+      213: -6533255644253059118
+    second: Natural Things Tilemap_129
+  - first:
+      213: -2917181284458744636
+    second: Natural Things Tilemap_130
+  - first:
+      213: -2829988213013713843
+    second: Natural Things Tilemap_131
+  - first:
+      213: 501135372651141359
+    second: Natural Things Tilemap_132
+  - first:
+      213: 1181661224930765892
+    second: Natural Things Tilemap_133
+  - first:
+      213: 1728696707805896370
+    second: Natural Things Tilemap_134
+  - first:
+      213: -3638734628116345848
+    second: Natural Things Tilemap_135
+  - first:
+      213: 6741199770758327695
+    second: Natural Things Tilemap_136
+  - first:
+      213: -6127964589796218918
+    second: Natural Things Tilemap_137
+  - first:
+      213: 8216401522578830397
+    second: Natural Things Tilemap_138
+  - first:
+      213: -4951512974985495509
+    second: Natural Things Tilemap_139
+  - first:
+      213: -8161379990856703596
+    second: Natural Things Tilemap_140
+  - first:
+      213: -5068882609098975517
+    second: Natural Things Tilemap_141
+  - first:
+      213: 2565203956008073592
+    second: Natural Things Tilemap_142
+  - first:
+      213: 2597255543760363995
+    second: Natural Things Tilemap_143
+  - first:
+      213: -914020183840168839
+    second: Natural Things Tilemap_144
+  - first:
+      213: -2437805887128210758
+    second: Natural Things Tilemap_145
+  - first:
+      213: -1286239552744747171
+    second: Natural Things Tilemap_146
+  - first:
+      213: 8391520420347292996
+    second: Natural Things Tilemap_147
+  - first:
+      213: -6752765290615358350
+    second: Natural Things Tilemap_148
+  - first:
+      213: -6862200912631687490
+    second: Natural Things Tilemap_149
+  - first:
+      213: 5074217279841935678
+    second: Natural Things Tilemap_150
+  - first:
+      213: 2450711288894948493
+    second: Natural Things Tilemap_151
+  - first:
+      213: -8343354041091140519
+    second: Natural Things Tilemap_152
+  - first:
+      213: 8914355931559238535
+    second: Natural Things Tilemap_153
+  - first:
+      213: 2380247072772340883
+    second: Natural Things Tilemap_154
+  - first:
+      213: 7260045170451704481
+    second: Natural Things Tilemap_155
+  - first:
+      213: -8080664799766355064
+    second: Natural Things Tilemap_156
+  - first:
+      213: -431752359386106385
+    second: Natural Things Tilemap_157
+  - first:
+      213: 1813159873205095151
+    second: Natural Things Tilemap_158
+  - first:
+      213: -1685287509113376699
+    second: Natural Things Tilemap_159
+  - first:
+      213: 4444513858366894263
+    second: Natural Things Tilemap_160
+  - first:
+      213: 3447605490839991251
+    second: Natural Things Tilemap_161
+  - first:
+      213: 2984350646091944148
+    second: Natural Things Tilemap_162
+  - first:
+      213: 6201088407908215600
+    second: Natural Things Tilemap_163
+  - first:
+      213: 4051514006284316306
+    second: Natural Things Tilemap_164
+  - first:
+      213: 3880370067043569593
+    second: Natural Things Tilemap_165
+  - first:
+      213: -5286961222537810300
+    second: Natural Things Tilemap_166
+  - first:
+      213: 4207278837528958170
+    second: Natural Things Tilemap_167
+  - first:
+      213: -4225911629646848713
+    second: Natural Things Tilemap_168
+  - first:
+      213: -1903930674454460506
+    second: Natural Things Tilemap_169
+  - first:
+      213: 6683023491805859606
+    second: Natural Things Tilemap_170
+  - first:
+      213: 7283562811026547311
+    second: Natural Things Tilemap_171
+  - first:
+      213: -2810760553970502730
+    second: Natural Things Tilemap_172
+  - first:
+      213: 5805355054449292187
+    second: Natural Things Tilemap_173
+  - first:
+      213: -8354030271132526597
+    second: Natural Things Tilemap_174
+  - first:
+      213: -6575762103193897976
+    second: Natural Things Tilemap_175
+  - first:
+      213: -7442012038688435555
+    second: Natural Things Tilemap_176
+  - first:
+      213: -7660697680233926879
+    second: Natural Things Tilemap_177
+  - first:
+      213: -8939823749225820415
+    second: Natural Things Tilemap_178
+  - first:
+      213: 8320394090013350173
+    second: Natural Things Tilemap_179
+  - first:
+      213: 1945409778267093387
+    second: Natural Things Tilemap_180
+  - first:
+      213: 4047696305152151978
+    second: Natural Things Tilemap_181
+  - first:
+      213: -5116662676735493750
+    second: Natural Things Tilemap_182
+  - first:
+      213: -800527963350863984
+    second: Natural Things Tilemap_183
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 74
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Natural Things Tilemap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da76ccc1f5e55da0800000000000000
+      internalID: -5956602105442174248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eec2161ed2999a70800000000000000
+      internalID: 8834253626614664936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ee195d0530adba0800000000000000
+      internalID: -6063530302585573812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4581d6d0a173a4590800000000000000
+      internalID: -7689272828747769772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9d06dbd96104660800000000000000
+      internalID: 7367913857121049049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45e12ca07c421360800000000000000
+      internalID: 7138852406143608141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67040de9cf084bb00800000000000000
+      internalID: 843440852709687414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6672a5f20473e1fe0800000000000000
+      internalID: -1216474100531583130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b1eb56e55471860800000000000000
+      internalID: 7500539976145050406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4f78515cd14fcd0800000000000000
+      internalID: -2525360758741011284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14440dd702642c80800000000000000
+      internalID: -8348440023325719522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51951d96eb2ebcba0800000000000000
+      internalID: -6067506765504620267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ed80e2c305d0fc0800000000000000
+      internalID: -3527074713760637412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47205a4a19eb0910800000000000000
+      internalID: 1804792374817204042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd2114779117d830800000000000000
+      internalID: 4095761728301772217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b65734a8d44cf3e0800000000000000
+      internalID: -2018662835710110029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eaf92cff42192aa0800000000000000
+      internalID: -6185392478474339612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24ce31d6b22b03f0800000000000000
+      internalID: -933614329159302097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661e098c1b5b07770800000000000000
+      internalID: 8606578663083794790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9d93b2418e67920800000000000000
+      internalID: 2987830576129104340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da295b98af03c0900800000000000000
+      internalID: 651949898672214701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ee1813831498d70800000000000000
+      internalID: 9045833036154924569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c85f4555ac9ccf0800000000000000
+      internalID: -231431437986460657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7898364ad28c6b9c0800000000000000
+      internalID: -3911719127967626873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d705d41c882ea63a0800000000000000
+      internalID: -6671270821009469315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb49505202db2760800000000000000
+      internalID: 7434266517284932595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83f1cac0e60c8120800000000000000
+      internalID: 2417314662535263117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_27
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a61ed1de7319c480800000000000000
+      internalID: -8878543754976422237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754d616a91add4480800000000000000
+      internalID: -8913228283800791977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37dd8bd158145cf90800000000000000
+      internalID: -6934064011281900173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91872a7c5dbc8a100800000000000000
+      internalID: 119569509163104281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb4a856125b84550800000000000000
+      internalID: 6145360846589152203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdf428b286e64bb0800000000000000
+      internalID: -4952017291137712642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc97c8d935ba6f3f0800000000000000
+      internalID: -867317502608377396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_34
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0459682c722958f0800000000000000
+      internalID: -551371562726894577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94dd7dece1fb10f90800000000000000
+      internalID: -6989095007662121655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e563e8c141947c90800000000000000
+      internalID: -7172948594765109792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d4eb103ce99f010800000000000000
+      internalID: 1223183334192860504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_38
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff6500271c7f6570800000000000000
+      internalID: 8462118663615770616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190839b7c3cb08a00800000000000000
+      internalID: 756811705355567249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7299b47e10e87e0800000000000000
+      internalID: -1761468311337883727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac919e6f24315440800000000000000
+      internalID: 4922773246015806636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17194b215629e8ac0800000000000000
+      internalID: -3850979668552019599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfd3987601870e30800000000000000
+      internalID: 4469683019981250508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f82bc1104c58d10800000000000000
+      internalID: 2127321908057902947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_45
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572734309529ad6d0800000000000000
+      internalID: -2964896493665553803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658406b94ff03dab0800000000000000
+      internalID: -4984622819315791786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_47
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303bd6402f0afa2d0800000000000000
+      internalID: -3265214243503492349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236eae128dc9253d0800000000000000
+      internalID: -3219338331520571854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_49
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06c6532220bab2d0800000000000000
+      internalID: -3262101319408237044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_50
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2342df55fc13a4fc0800000000000000
+      internalID: -3509938193011235790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_51
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd2ad9a5121aef70800000000000000
+      internalID: 9217199471620402651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d9737668a62fa00800000000000000
+      internalID: 788810010233118007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_53
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d494f14685698ce0800000000000000
+      internalID: -1402478181642627879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_54
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4377dd82bcb0b2b90800000000000000
+      internalID: -7265700606640294092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_55
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b358d764efd214a70800000000000000
+      internalID: 8809372916240975163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e47f78eeaa6fa820800000000000000
+      internalID: 2931679181899003110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_57
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a03372fc72173070800000000000000
+      internalID: 8085951983819894944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580e36b7a11f57490800000000000000
+      internalID: -7749022487779483515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_59
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d46ff068c3816e0800000000000000
+      internalID: -1866675499053986419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e66d4173542e0a50800000000000000
+      internalID: 6489164053889246946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811438d84a2190540800000000000000
+      internalID: 4974527761365549336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa79833c0860f3d80800000000000000
+      internalID: -8268883240728094801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_63
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8b3339a5c6d4140800000000000000
+      internalID: 4705536321944533201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76edc1bb770b5420800000000000000
+      internalID: 2619695836091508346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_65
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4a4669205337ba0800000000000000
+      internalID: -6092467585672764255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_66
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650fba4eab7bf8dd0800000000000000
+      internalID: -2481562856329580458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_67
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a699f44c58b5b7f0800000000000000
+      internalID: -597368669123012957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e392c28c06f3e70800000000000000
+      internalID: 9097096185162317426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_69
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2606efaf20b675de0800000000000000
+      internalID: -1344488303201722270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_70
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce4d1c0c7fe178b0800000000000000
+      internalID: -5156076782304276793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_71
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25480cbb3e4039b50800000000000000
+      internalID: 6598623255181952082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_72
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30ceb1964ecc5ca0800000000000000
+      internalID: -6026715398840336324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf599949752cdae0800000000000000
+      internalID: -1523301371102011457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_74
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2492809f40efcbb00800000000000000
+      internalID: 845830127350196546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f56469f621575590800000000000000
+      internalID: -7685585011249748494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_76
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aebfaefb97642930800000000000000
+      internalID: 4117529879013998247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084c4f312e5b358d0800000000000000
+      internalID: -2858741355848088448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_78
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16dcecdcaa86d9f0800000000000000
+      internalID: -444015038203898340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47990e5c859355fb0800000000000000
+      internalID: -4659755186005173900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1049b56e05f015a10800000000000000
+      internalID: 1896313758236251137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_81
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4204393a36312c40800000000000000
+      internalID: 5485725444809687628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_82
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5117becaae489c0800000000000000
+      internalID: -3925754946754898509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_83
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba84c65c44d9c1600800000000000000
+      internalID: 440399782271010987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18320913a8e1e020800000000000000
+      internalID: 2369430666170480668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_85
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7112fa11b654b2410800000000000000
+      internalID: 1453331630917624087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_86
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6b81f1eeb593c20800000000000000
+      internalID: 3186679289623394009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_87
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef7b1ff8f0dbe310800000000000000
+      internalID: 1435470674098094058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953b98d4007c93b60800000000000000
+      internalID: 7726425439845593945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_89
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f0a7a7edd9a67d0800000000000000
+      internalID: -2924351429160595686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_90
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5475a4089ec350ae0800000000000000
+      internalID: -1583792720373459131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_91
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23202047df3955d80800000000000000
+      internalID: -8262535224559009230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_92
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b82a943ed61a87d0800000000000000
+      internalID: -2915492665147905865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_93
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d25af26397ade40800000000000000
+      internalID: 5681987153515851143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_94
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587776eb31ca81cc0800000000000000
+      internalID: -3740050289732388987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_95
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b64e1a2bf7223a80800000000000000
+      internalID: -8488678387943061837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5304506828e7e0c0800000000000000
+      internalID: -4546410038694771877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289222f0cc31889e0800000000000000
+      internalID: -1619022298891540094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e508b2f5869593820800000000000000
+      internalID: 2898446139997782110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_99
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d78cc41abbd3dea0800000000000000
+      internalID: -5849089898764793903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_100
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abebfc0f066617cf0800000000000000
+      internalID: -256311137240367430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_101
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beae19cd8529d38f0800000000000000
+      internalID: -559129868368745749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_102
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ec68da0b4c3bb80800000000000000
+      internalID: -8380138218501779943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_103
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1347ebbf107f7720800000000000000
+      internalID: 2846116771120235291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5deca7011dd0de30800000000000000
+      internalID: 4526360690720304475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_105
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603aed18f424a47a0800000000000000
+      internalID: -6392223811850296570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_106
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f75c3b24eb6bdc0800000000000000
+      internalID: -3623499656479801446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_107
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a9b3c33fb25b210800000000000000
+      internalID: 1348031987154917990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_108
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d852bee9dc6cb050800000000000000
+      internalID: 5817644501924206809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_109
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b37411ac3f87000800000000000000
+      internalID: 34045046404103062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_110
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f49c4e9deea4530800000000000000
+      internalID: 3840144251900481408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_111
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c1e22bf2074a1b0800000000000000
+      internalID: -5646264682660619105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5cac740a3af1440800000000000000
+      internalID: 4908822027651696098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_113
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608d9892460de6f60800000000000000
+      internalID: 8029584314260379654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_114
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9f6039df5747f20800000000000000
+      internalID: 3419487749034932700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_115
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b8d1feb7251a8d0800000000000000
+      internalID: -2836895598020555876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_116
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94220e9f8a99a2280800000000000000
+      internalID: -9067265948731301303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_117
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8858b932a20c650800000000000000
+      internalID: 6251042615211690236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3cb3600550c57a0800000000000000
+      internalID: -6387224330258103362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_119
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde5b0bf51f788210800000000000000
+      internalID: 1335457021898219227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_120
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e986d2953921b7a20800000000000000
+      internalID: 3061060795794024606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_121
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01358f36f8373a1d0800000000000000
+      internalID: -3340699438884039920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_122
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c811e2ab59733eee0800000000000000
+      internalID: -1233080756756147828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_123
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665a4bb5a341f11b0800000000000000
+      internalID: -5683801963839052442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1624fd6dbc1235ac0800000000000000
+      internalID: -3867710495614090655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_125
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfc0268d50b9e740800000000000000
+      internalID: 5181866761995210719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_126
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708bb3a4d813d3520800000000000000
+      internalID: 2683355435888261127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_127
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8da548197a04ac60800000000000000
+      internalID: 7828393567491304845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_128
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b219d4bf2a4f45b0800000000000000
+      internalID: -5382001460926410058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_129
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d70b713b963555a0800000000000000
+      internalID: -6533255644253059118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_130
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c43b62e3171487d0800000000000000
+      internalID: -2917181284458744636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_131
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c66c4d6bcd9b8d0800000000000000
+      internalID: -2829988213013713843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8114f57f364f600800000000000000
+      internalID: 501135372651141359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_133
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ce9d49f9a166010800000000000000
+      internalID: 1181661224930765892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_134
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be58292f709df710800000000000000
+      internalID: 1728696707805896370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c4633722e908dc0800000000000000
+      internalID: -3638734628116345848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_136
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8daeff997d8d8d50800000000000000
+      internalID: 6741199770758327695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_137
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad726054ca815faa0800000000000000
+      internalID: -6127964589796218918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_138
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d343a4507a5860270800000000000000
+      internalID: 8216401522578830397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_139
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c7049fe21b84bb0800000000000000
+      internalID: -4951512974985495509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_140
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4916100a324fcbe80800000000000000
+      internalID: -8161379990856703596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_141
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e610848f16b7a9b0800000000000000
+      internalID: -5068882609098975517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_142
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879b94e286f699320800000000000000
+      internalID: 2565203956008073592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd120ccf72e4b0420800000000000000
+      internalID: 2597255543760363995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_144
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9746ba84c7fb053f0800000000000000
+      internalID: -914020183840168839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2fd52367c2b2ed0800000000000000
+      internalID: -2437805887128210758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_146
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f879a01fb562ee0800000000000000
+      internalID: -1286239552744747171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_147
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44dac34bc5ba47470800000000000000
+      internalID: 8391520420347292996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_148
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cb841febb5942a0800000000000000
+      internalID: -6752765290615358350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_149
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb61a31a0a094c0a0800000000000000
+      internalID: -6862200912631687490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_150
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31a02e4bbd3b6640800000000000000
+      internalID: 5074217279841935678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_151
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d848f9dceeca20220800000000000000
+      internalID: 2450711288894948493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_152
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954517164b3763c80800000000000000
+      internalID: -8343354041091140519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_153
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b1cfd4d7726bb70800000000000000
+      internalID: 8914355931559238535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_154
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c32420a16580120800000000000000
+      internalID: 2380247072772340883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_155
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa601efd9cd0c460800000000000000
+      internalID: 7260045170451704481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_156
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8836ce48d26bbdf80800000000000000
+      internalID: -8080664799766355064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_157
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5bad3448b120af0800000000000000
+      internalID: -431752359386106385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_158
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feac1635c43a92910800000000000000
+      internalID: 1813159873205095151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_159
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540f4e280f7ac98e0800000000000000
+      internalID: -1685287509113376699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_160
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0724f5ec51ead30800000000000000
+      internalID: 4444513858366894263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_161
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3343f7dea58df20800000000000000
+      internalID: 3447605490839991251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_162
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d09481d91b8a6920800000000000000
+      internalID: 2984350646091944148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_163
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b692e5d01be0650800000000000000
+      internalID: 6201088407908215600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_164
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ea81bd58ed93830800000000000000
+      internalID: 4051514006284316306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_165
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfc0335408d9d530800000000000000
+      internalID: 3880370067043569593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_166
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e6e5597c0f0a6b0800000000000000
+      internalID: -5286961222537810300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_167
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad49ee5cfc1436a30800000000000000
+      internalID: 4207278837528958170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_168
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d15be33cb8a55c0800000000000000
+      internalID: -4225911629646848713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_169
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a70c289321e395e0800000000000000
+      internalID: -1903930674454460506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_170
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fcda6257edebc50800000000000000
+      internalID: 6683023491805859606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_171
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62ab7269c9641560800000000000000
+      internalID: 7283562811026547311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b378ef0b2c2ef8d0800000000000000
+      internalID: -2810760553970502730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_173
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93f777f9a3c09050800000000000000
+      internalID: 5805355054449292187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_174
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7194edab5801c80800000000000000
+      internalID: -8354030271132526597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_175
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804f6aff4333eb4a0800000000000000
+      internalID: -6575762103193897976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d929bc3fa79a8b890800000000000000
+      internalID: -7442012038688435555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_177
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f6ff54c0cbfa590800000000000000
+      internalID: -7660697680233926879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_178
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f4bc05aad5fe380800000000000000
+      internalID: -8939823749225820415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_179
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19518e675af77370800000000000000
+      internalID: 8320394090013350173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b897e28d2eb7ffa10800000000000000
+      internalID: 1945409778267093387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_181
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1514b085e4c2830800000000000000
+      internalID: 4047696305152151978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_182
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a897ead9766fdf8b0800000000000000
+      internalID: -5116662676735493750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Natural Things Tilemap_183
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f64b70f04f3e4f0800000000000000
+      internalID: -800527963350863984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Natural Things Tilemap_67: -597368669123012957
+      Natural Things Tilemap_132: 501135372651141359
+      Natural Things Tilemap_27: -8878543754976422237
+      Natural Things Tilemap_133: 1181661224930765892
+      Natural Things Tilemap_0: -5956602105442174248
+      Natural Things Tilemap_139: -4951512974985495509
+      Natural Things Tilemap_98: 2898446139997782110
+      Natural Things Tilemap_151: 2450711288894948493
+      Natural Things Tilemap_71: 6598623255181952082
+      Natural Things Tilemap_79: -4659755186005173900
+      Natural Things Tilemap_15: -2018662835710110029
+      Natural Things Tilemap_29: -6934064011281900173
+      Natural Things Tilemap_149: -6862200912631687490
+      Natural Things Tilemap_19: 2987830576129104340
+      Natural Things Tilemap_73: -1523301371102011457
+      Natural Things Tilemap_159: -1685287509113376699
+      Natural Things Tilemap_117: 6251042615211690236
+      Natural Things Tilemap_60: 6489164053889246946
+      Natural Things Tilemap_154: 2380247072772340883
+      Natural Things Tilemap_162: 2984350646091944148
+      Natural Things Tilemap_148: -6752765290615358350
+      Natural Things Tilemap_74: 845830127350196546
+      Natural Things Tilemap_35: -6989095007662121655
+      Natural Things Tilemap_85: 1453331630917624087
+      Natural Things Tilemap_50: -3509938193011235790
+      Natural Things Tilemap_49: -3262101319408237044
+      Natural Things Tilemap_181: 4047696305152151978
+      Natural Things Tilemap_13: 1804792374817204042
+      Natural Things Tilemap_126: 2683355435888261127
+      Natural Things Tilemap_179: 8320394090013350173
+      Natural Things Tilemap_131: -2829988213013713843
+      Natural Things Tilemap_3: -7689272828747769772
+      Natural Things Tilemap_2: -6063530302585573812
+      Natural Things Tilemap_34: -551371562726894577
+      Natural Things Tilemap_95: -8488678387943061837
+      Natural Things Tilemap_150: 5074217279841935678
+      Natural Things Tilemap_173: 5805355054449292187
+      Natural Things Tilemap_10: -8348440023325719522
+      Natural Things Tilemap_11: -6067506765504620267
+      Natural Things Tilemap_81: 5485725444809687628
+      Natural Things Tilemap_93: 5681987153515851143
+      Natural Things Tilemap_110: 3840144251900481408
+      Natural Things Tilemap_14: 4095761728301772217
+      Natural Things Tilemap_136: 6741199770758327695
+      Natural Things Tilemap_152: -8343354041091140519
+      Natural Things Tilemap_33: -867317502608377396
+      Natural Things Tilemap_115: -2836895598020555876
+      Natural Things Tilemap_129: -6533255644253059118
+      Natural Things Tilemap_128: -5382001460926410058
+      Natural Things Tilemap_30: 119569509163104281
+      Natural Things Tilemap_21: 9045833036154924569
+      Natural Things Tilemap_63: 4705536321944533201
+      Natural Things Tilemap_161: 3447605490839991251
+      Natural Things Tilemap_32: -4952017291137712642
+      Natural Things Tilemap_180: 1945409778267093387
+      Natural Things Tilemap_169: -1903930674454460506
+      Natural Things Tilemap_87: 1435470674098094058
+      Natural Things Tilemap_165: 3880370067043569593
+      Natural Things Tilemap_174: -8354030271132526597
+      Natural Things Tilemap_171: 7283562811026547311
+      Natural Things Tilemap_16: -6185392478474339612
+      Natural Things Tilemap_91: -8262535224559009230
+      Natural Things Tilemap_122: -1233080756756147828
+      Natural Things Tilemap_163: 6201088407908215600
+      Natural Things Tilemap_118: -6387224330258103362
+      Natural Things Tilemap_40: -1761468311337883727
+      Natural Things Tilemap_46: -4984622819315791786
+      Natural Things Tilemap_24: -6671270821009469315
+      Natural Things Tilemap_124: -3867710495614090655
+      Natural Things Tilemap_6: 843440852709687414
+      Natural Things Tilemap_158: 1813159873205095151
+      Natural Things Tilemap_160: 4444513858366894263
+      Natural Things Tilemap_107: 1348031987154917990
+      Natural Things Tilemap_65: -6092467585672764255
+      Natural Things Tilemap_80: 1896313758236251137
+      Natural Things Tilemap_76: 4117529879013998247
+      Natural Things Tilemap_104: 4526360690720304475
+      Natural Things Tilemap_57: 8085951983819894944
+      Natural Things Tilemap_119: 1335457021898219227
+      Natural Things Tilemap_96: -4546410038694771877
+      Natural Things Tilemap_51: 9217199471620402651
+      Natural Things Tilemap_17: -933614329159302097
+      Natural Things Tilemap_177: -7660697680233926879
+      Natural Things Tilemap_111: -5646264682660619105
+      Natural Things Tilemap_130: -2917181284458744636
+      Natural Things Tilemap_12: -3527074713760637412
+      Natural Things Tilemap_9: -2525360758741011284
+      Natural Things Tilemap_20: 651949898672214701
+      Natural Things Tilemap_170: 6683023491805859606
+      Natural Things Tilemap_88: 7726425439845593945
+      Natural Things Tilemap_105: -6392223811850296570
+      Natural Things Tilemap_90: -1583792720373459131
+      Natural Things Tilemap_36: -7172948594765109792
+      Natural Things Tilemap_41: 4922773246015806636
+      Natural Things Tilemap_54: -7265700606640294092
+      Natural Things Tilemap_4: 7367913857121049049
+      Natural Things Tilemap_39: 756811705355567249
+      Natural Things Tilemap_55: 8809372916240975163
+      Natural Things Tilemap_112: 4908822027651696098
+      Natural Things Tilemap_48: -3219338331520571854
+      Natural Things Tilemap_47: -3265214243503492349
+      Natural Things Tilemap_26: 2417314662535263117
+      Natural Things Tilemap_134: 1728696707805896370
+      Natural Things Tilemap_103: 2846116771120235291
+      Natural Things Tilemap_140: -8161379990856703596
+      Natural Things Tilemap_156: -8080664799766355064
+      Natural Things Tilemap_31: 6145360846589152203
+      Natural Things Tilemap_114: 3419487749034932700
+      Natural Things Tilemap_75: -7685585011249748494
+      Natural Things Tilemap_157: -431752359386106385
+      Natural Things Tilemap_141: -5068882609098975517
+      Natural Things Tilemap_53: -1402478181642627879
+      Natural Things Tilemap_89: -2924351429160595686
+      Natural Things Tilemap_25: 7434266517284932595
+      Natural Things Tilemap_145: -2437805887128210758
+      Natural Things Tilemap_182: -5116662676735493750
+      Natural Things Tilemap_123: -5683801963839052442
+      Natural Things Tilemap_70: -5156076782304276793
+      Natural Things Tilemap_102: -8380138218501779943
+      Natural Things Tilemap_77: -2858741355848088448
+      Natural Things Tilemap_142: 2565203956008073592
+      Natural Things Tilemap_164: 4051514006284316306
+      Natural Things Tilemap_155: 7260045170451704481
+      Natural Things Tilemap_43: 4469683019981250508
+      Natural Things Tilemap_22: -231431437986460657
+      Natural Things Tilemap_58: -7749022487779483515
+      Natural Things Tilemap_100: -256311137240367430
+      Natural Things Tilemap_69: -1344488303201722270
+      Natural Things Tilemap_167: 4207278837528958170
+      Natural Things Tilemap_42: -3850979668552019599
+      Natural Things Tilemap_66: -2481562856329580458
+      Natural Things Tilemap_101: -559129868368745749
+      Natural Things Tilemap_125: 5181866761995210719
+      Natural Things Tilemap_153: 8914355931559238535
+      Natural Things Tilemap_7: -1216474100531583130
+      Natural Things Tilemap_5: 7138852406143608141
+      Natural Things Tilemap_82: -3925754946754898509
+      Natural Things Tilemap_62: -8268883240728094801
+      Natural Things Tilemap_59: -1866675499053986419
+      Natural Things Tilemap_108: 5817644501924206809
+      Natural Things Tilemap_84: 2369430666170480668
+      Natural Things Tilemap_94: -3740050289732388987
+      Natural Things Tilemap_18: 8606578663083794790
+      Natural Things Tilemap_183: -800527963350863984
+      Natural Things Tilemap_137: -6127964589796218918
+      Natural Things Tilemap_38: 8462118663615770616
+      Natural Things Tilemap_146: -1286239552744747171
+      Natural Things Tilemap_121: -3340699438884039920
+      Natural Things Tilemap_61: 4974527761365549336
+      Natural Things Tilemap_1: 8834253626614664936
+      Natural Things Tilemap_64: 2619695836091508346
+      Natural Things Tilemap_86: 3186679289623394009
+      Natural Things Tilemap_56: 2931679181899003110
+      Natural Things Tilemap_144: -914020183840168839
+      Natural Things Tilemap_99: -5849089898764793903
+      Natural Things Tilemap_176: -7442012038688435555
+      Natural Things Tilemap_178: -8939823749225820415
+      Natural Things Tilemap_143: 2597255543760363995
+      Natural Things Tilemap_97: -1619022298891540094
+      Natural Things Tilemap_166: -5286961222537810300
+      Natural Things Tilemap_168: -4225911629646848713
+      Natural Things Tilemap_44: 2127321908057902947
+      Natural Things Tilemap_116: -9067265948731301303
+      Natural Things Tilemap_172: -2810760553970502730
+      Natural Things Tilemap_138: 8216401522578830397
+      Natural Things Tilemap_68: 9097096185162317426
+      Natural Things Tilemap_78: -444015038203898340
+      Natural Things Tilemap_109: 34045046404103062
+      Natural Things Tilemap_120: 3061060795794024606
+      Natural Things Tilemap_113: 8029584314260379654
+      Natural Things Tilemap_135: -3638734628116345848
+      Natural Things Tilemap_147: 8391520420347292996
+      Natural Things Tilemap_175: -6575762103193897976
+      Natural Things Tilemap_106: -3623499656479801446
+      Natural Things Tilemap_37: 1223183334192860504
+      Natural Things Tilemap_52: 788810010233118007
+      Natural Things Tilemap_92: -2915492665147905865
+      Natural Things Tilemap_83: 440399782271010987
+      Natural Things Tilemap_72: -6026715398840336324
+      Natural Things Tilemap_23: -3911719127967626873
+      Natural Things Tilemap_8: 7500539976145050406
+      Natural Things Tilemap_127: 7828393567491304845
+      Natural Things Tilemap_28: -8913228283800791977
+      Natural Things Tilemap_45: -2964896493665553803
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

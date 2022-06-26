@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BossLevel
+  - BossLevelChecker
+  - TreasureLevel
+  - MysticLevel
+  - RoomCheckers
+  - FightLevel
+  - StartLevel
+  - Potion
+  - DeathPoison
+  - Coin
+  - Weapon
+  - GreenPoison
+  - PotCollecter
+  - BlackPoison
+  - Trap
+  - HealthPoison
+  - DamageText
+  - DestroyableCase
+  - Sword
+  - Player1HealthBar
+  - Player2HealthBar
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - Boi
+  - Daisy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 539728725
+    locked: 0
+  - name: Wall
+    uniqueID: 1832768717
+    locked: 0
+  - name: Object
+    uniqueID: 1343488531
+    locked: 0
+  - name: Master
+    uniqueID: 933709491
+    locked: 0
+  - name: Player
+    uniqueID: 2638147725
+    locked: 0
+  - name: Projectiles
+    uniqueID: 4115410667
+    locked: 0
+  - name: HighStractures
+    uniqueID: 2662206505
+    locked: 0

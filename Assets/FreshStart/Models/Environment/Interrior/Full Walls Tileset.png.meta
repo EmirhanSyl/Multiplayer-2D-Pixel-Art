@@ -1,0 +1,6696 @@
+fileFormatVersion: 2
+guid: 99df30c30dfab794bb4bc26a3b4b27a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6941703027521920043
+    second: Full Walls Tileset_0
+  - first:
+      213: 2661200206960842653
+    second: Full Walls Tileset_1
+  - first:
+      213: -852060973376961100
+    second: Full Walls Tileset_2
+  - first:
+      213: -6459925823794060197
+    second: Full Walls Tileset_3
+  - first:
+      213: -7434802379874522256
+    second: Full Walls Tileset_4
+  - first:
+      213: -291514846500085146
+    second: Full Walls Tileset_5
+  - first:
+      213: 2491551511082865109
+    second: Full Walls Tileset_6
+  - first:
+      213: 4097833480847095890
+    second: Full Walls Tileset_7
+  - first:
+      213: -8671841127327965136
+    second: Full Walls Tileset_8
+  - first:
+      213: 155704685597554327
+    second: Full Walls Tileset_9
+  - first:
+      213: -7067665537953696060
+    second: Full Walls Tileset_10
+  - first:
+      213: 5138549561412346192
+    second: Full Walls Tileset_11
+  - first:
+      213: -139591302197704325
+    second: Full Walls Tileset_12
+  - first:
+      213: 7127241784387532230
+    second: Full Walls Tileset_13
+  - first:
+      213: -3532299801987474699
+    second: Full Walls Tileset_14
+  - first:
+      213: 4245727265626978810
+    second: Full Walls Tileset_15
+  - first:
+      213: 3087253223592470955
+    second: Full Walls Tileset_16
+  - first:
+      213: 2101056712629339600
+    second: Full Walls Tileset_17
+  - first:
+      213: 4878450991847575004
+    second: Full Walls Tileset_18
+  - first:
+      213: 738302891876957002
+    second: Full Walls Tileset_19
+  - first:
+      213: -8462970771937422987
+    second: Full Walls Tileset_20
+  - first:
+      213: 2893068230966142312
+    second: Full Walls Tileset_21
+  - first:
+      213: -4317147629525978176
+    second: Full Walls Tileset_22
+  - first:
+      213: 4187575602221145553
+    second: Full Walls Tileset_23
+  - first:
+      213: -7289867432958064981
+    second: Full Walls Tileset_24
+  - first:
+      213: 555496878957341521
+    second: Full Walls Tileset_25
+  - first:
+      213: 5162731641919416740
+    second: Full Walls Tileset_26
+  - first:
+      213: -401867360629484966
+    second: Full Walls Tileset_27
+  - first:
+      213: 6224983487731777016
+    second: Full Walls Tileset_28
+  - first:
+      213: -6226361217115045279
+    second: Full Walls Tileset_29
+  - first:
+      213: 4006692190239619500
+    second: Full Walls Tileset_30
+  - first:
+      213: 1708392526680364905
+    second: Full Walls Tileset_31
+  - first:
+      213: 6116125481061919003
+    second: Full Walls Tileset_32
+  - first:
+      213: 8659927896071785690
+    second: Full Walls Tileset_33
+  - first:
+      213: -3789417358248913320
+    second: Full Walls Tileset_34
+  - first:
+      213: -4999728224477797172
+    second: Full Walls Tileset_35
+  - first:
+      213: 3898034531390094306
+    second: Full Walls Tileset_36
+  - first:
+      213: 1512702052124614078
+    second: Full Walls Tileset_37
+  - first:
+      213: 8250219699214210577
+    second: Full Walls Tileset_38
+  - first:
+      213: 7738797149547442616
+    second: Full Walls Tileset_39
+  - first:
+      213: -707076660188368737
+    second: Full Walls Tileset_40
+  - first:
+      213: 129454637563475862
+    second: Full Walls Tileset_41
+  - first:
+      213: 3591390522667328496
+    second: Full Walls Tileset_42
+  - first:
+      213: 8637969547298186180
+    second: Full Walls Tileset_43
+  - first:
+      213: 6689507436990196880
+    second: Full Walls Tileset_44
+  - first:
+      213: 8663594277889497929
+    second: Full Walls Tileset_45
+  - first:
+      213: -4799057639089265568
+    second: Full Walls Tileset_46
+  - first:
+      213: -125430050453637278
+    second: Full Walls Tileset_47
+  - first:
+      213: 685190598635284429
+    second: Full Walls Tileset_48
+  - first:
+      213: -7799672587220528148
+    second: Full Walls Tileset_49
+  - first:
+      213: 762994441260074716
+    second: Full Walls Tileset_50
+  - first:
+      213: 5709518299619207774
+    second: Full Walls Tileset_51
+  - first:
+      213: 2106967112287523031
+    second: Full Walls Tileset_52
+  - first:
+      213: -1971207668913992123
+    second: Full Walls Tileset_53
+  - first:
+      213: 1465547013058513679
+    second: Full Walls Tileset_54
+  - first:
+      213: 3050758872271497664
+    second: Full Walls Tileset_55
+  - first:
+      213: 1220792837751308510
+    second: Full Walls Tileset_56
+  - first:
+      213: -4591183646688907939
+    second: Full Walls Tileset_57
+  - first:
+      213: 1919925488722225730
+    second: Full Walls Tileset_58
+  - first:
+      213: 6318977859020370025
+    second: Full Walls Tileset_59
+  - first:
+      213: 7075345011580645226
+    second: Full Walls Tileset_60
+  - first:
+      213: -5525568879448952650
+    second: Full Walls Tileset_61
+  - first:
+      213: -5905628973049324806
+    second: Full Walls Tileset_62
+  - first:
+      213: 7577471274803722765
+    second: Full Walls Tileset_63
+  - first:
+      213: 2813695662020470731
+    second: Full Walls Tileset_64
+  - first:
+      213: 1393266394131752872
+    second: Full Walls Tileset_65
+  - first:
+      213: -5685395641358831828
+    second: Full Walls Tileset_66
+  - first:
+      213: 408217316180164441
+    second: Full Walls Tileset_67
+  - first:
+      213: -3679093113896446027
+    second: Full Walls Tileset_68
+  - first:
+      213: 5791147716709968668
+    second: Full Walls Tileset_69
+  - first:
+      213: -9086384807580010285
+    second: Full Walls Tileset_70
+  - first:
+      213: 176561897907725381
+    second: Full Walls Tileset_71
+  - first:
+      213: 5547596411202452161
+    second: Full Walls Tileset_72
+  - first:
+      213: 3907950264331900874
+    second: Full Walls Tileset_73
+  - first:
+      213: 6851739640065649659
+    second: Full Walls Tileset_74
+  - first:
+      213: 855295173402656074
+    second: Full Walls Tileset_75
+  - first:
+      213: 8979038351432411787
+    second: Full Walls Tileset_76
+  - first:
+      213: 2440528436482868470
+    second: Full Walls Tileset_77
+  - first:
+      213: 3687148290495993492
+    second: Full Walls Tileset_78
+  - first:
+      213: 5206923227627125585
+    second: Full Walls Tileset_79
+  - first:
+      213: 6937033011186210612
+    second: Full Walls Tileset_80
+  - first:
+      213: -5613033145433744079
+    second: Full Walls Tileset_81
+  - first:
+      213: -7000553776600041131
+    second: Full Walls Tileset_82
+  - first:
+      213: -8266181764900301729
+    second: Full Walls Tileset_83
+  - first:
+      213: 8772393873211212255
+    second: Full Walls Tileset_84
+  - first:
+      213: -2334835994184511329
+    second: Full Walls Tileset_85
+  - first:
+      213: -5180669229214445960
+    second: Full Walls Tileset_86
+  - first:
+      213: -1834263438313941162
+    second: Full Walls Tileset_87
+  - first:
+      213: -6845674254866301267
+    second: Full Walls Tileset_88
+  - first:
+      213: -1194023961911637706
+    second: Full Walls Tileset_89
+  - first:
+      213: -4808407057946393693
+    second: Full Walls Tileset_90
+  - first:
+      213: -5252901557012075449
+    second: Full Walls Tileset_91
+  - first:
+      213: -6551149624040302676
+    second: Full Walls Tileset_92
+  - first:
+      213: -1422597824070237773
+    second: Full Walls Tileset_93
+  - first:
+      213: -4004560779839194910
+    second: Full Walls Tileset_94
+  - first:
+      213: -4711899597146703494
+    second: Full Walls Tileset_95
+  - first:
+      213: 611174935952125907
+    second: Full Walls Tileset_96
+  - first:
+      213: -2337968437133450531
+    second: Full Walls Tileset_97
+  - first:
+      213: 6613519647351302171
+    second: Full Walls Tileset_98
+  - first:
+      213: -417036130910329753
+    second: Full Walls Tileset_99
+  - first:
+      213: -8579725996744241727
+    second: Full Walls Tileset_100
+  - first:
+      213: 4226739873490748196
+    second: Full Walls Tileset_101
+  - first:
+      213: 5329716957579355727
+    second: Full Walls Tileset_102
+  - first:
+      213: 3023829485782699221
+    second: Full Walls Tileset_103
+  - first:
+      213: -5140654742332897687
+    second: Full Walls Tileset_104
+  - first:
+      213: 4334218498194175414
+    second: Full Walls Tileset_105
+  - first:
+      213: 1728095445394869914
+    second: Full Walls Tileset_106
+  - first:
+      213: 7530405607411963761
+    second: Full Walls Tileset_107
+  - first:
+      213: -7381756925243223788
+    second: Full Walls Tileset_108
+  - first:
+      213: -8233317642508430136
+    second: Full Walls Tileset_109
+  - first:
+      213: 8401205593605760814
+    second: Full Walls Tileset_110
+  - first:
+      213: 2668691457282852066
+    second: Full Walls Tileset_111
+  - first:
+      213: -925607036057140508
+    second: Full Walls Tileset_112
+  - first:
+      213: 2589492423740343525
+    second: Full Walls Tileset_113
+  - first:
+      213: 3790482598371293174
+    second: Full Walls Tileset_114
+  - first:
+      213: 2608723910258979112
+    second: Full Walls Tileset_115
+  - first:
+      213: 3678578936032367219
+    second: Full Walls Tileset_116
+  - first:
+      213: -4184514630021318735
+    second: Full Walls Tileset_117
+  - first:
+      213: 3309809312032688637
+    second: Full Walls Tileset_118
+  - first:
+      213: -172149334004310229
+    second: Full Walls Tileset_119
+  - first:
+      213: 706020514708388155
+    second: Full Walls Tileset_120
+  - first:
+      213: -7768709595929516347
+    second: Full Walls Tileset_121
+  - first:
+      213: 1830101860893420656
+    second: Full Walls Tileset_122
+  - first:
+      213: 4494841036405383117
+    second: Full Walls Tileset_123
+  - first:
+      213: -5907774959899898961
+    second: Full Walls Tileset_124
+  - first:
+      213: 7453683078494570897
+    second: Full Walls Tileset_125
+  - first:
+      213: -5413532534226180661
+    second: Full Walls Tileset_126
+  - first:
+      213: 3970754589678157325
+    second: Full Walls Tileset_127
+  - first:
+      213: 7678072811578800795
+    second: Full Walls Tileset_128
+  - first:
+      213: 8292007553363204527
+    second: Full Walls Tileset_129
+  - first:
+      213: -3499199018796137357
+    second: Full Walls Tileset_130
+  - first:
+      213: 265848921596522647
+    second: Full Walls Tileset_131
+  - first:
+      213: -2065240042429823871
+    second: Full Walls Tileset_132
+  - first:
+      213: -3227267383212241393
+    second: Full Walls Tileset_133
+  - first:
+      213: -5637487057904537726
+    second: Full Walls Tileset_134
+  - first:
+      213: 1933539885123705445
+    second: Full Walls Tileset_135
+  - first:
+      213: -3387056179947232558
+    second: Full Walls Tileset_136
+  - first:
+      213: -97600455972171609
+    second: Full Walls Tileset_137
+  - first:
+      213: -4847776924513982857
+    second: Full Walls Tileset_138
+  - first:
+      213: -7591210346112659387
+    second: Full Walls Tileset_139
+  - first:
+      213: -8384704296644139003
+    second: Full Walls Tileset_140
+  - first:
+      213: -3805366243091919408
+    second: Full Walls Tileset_141
+  - first:
+      213: -7383835556480580987
+    second: Full Walls Tileset_142
+  - first:
+      213: 8294552116500799931
+    second: Full Walls Tileset_143
+  - first:
+      213: 8083074114009603505
+    second: Full Walls Tileset_144
+  - first:
+      213: -8182190561204598582
+    second: Full Walls Tileset_145
+  - first:
+      213: -1699390458890000930
+    second: Full Walls Tileset_146
+  - first:
+      213: 7553427176870983394
+    second: Full Walls Tileset_147
+  - first:
+      213: 8414527160897957097
+    second: Full Walls Tileset_148
+  - first:
+      213: -1771015593321555767
+    second: Full Walls Tileset_149
+  - first:
+      213: 811112511261400389
+    second: Full Walls Tileset_150
+  - first:
+      213: -4784639880140658152
+    second: Full Walls Tileset_151
+  - first:
+      213: 7818911698657997238
+    second: Full Walls Tileset_152
+  - first:
+      213: 2181270147268208685
+    second: Full Walls Tileset_153
+  - first:
+      213: 4927250073297668124
+    second: Full Walls Tileset_154
+  - first:
+      213: -7149471122534173792
+    second: Full Walls Tileset_155
+  - first:
+      213: 933548303274627515
+    second: Full Walls Tileset_156
+  - first:
+      213: -8194091868102003729
+    second: Full Walls Tileset_157
+  - first:
+      213: -4318605227190608559
+    second: Full Walls Tileset_158
+  - first:
+      213: 3758136149597969676
+    second: Full Walls Tileset_159
+  - first:
+      213: -2194974402979501447
+    second: Full Walls Tileset_160
+  - first:
+      213: 7513418875682025775
+    second: Full Walls Tileset_161
+  - first:
+      213: 4651262762107344926
+    second: Full Walls Tileset_162
+  - first:
+      213: -9202135315900145598
+    second: Full Walls Tileset_163
+  - first:
+      213: -2730910457174639987
+    second: Full Walls Tileset_164
+  - first:
+      213: 4163062046723551087
+    second: Full Walls Tileset_165
+  - first:
+      213: 2956851922484398864
+    second: Full Walls Tileset_166
+  - first:
+      213: 3765635778581432226
+    second: Full Walls Tileset_167
+  - first:
+      213: 3278810002958927937
+    second: Full Walls Tileset_168
+  - first:
+      213: -8386328514501693755
+    second: Full Walls Tileset_169
+  - first:
+      213: -4670716374350900041
+    second: Full Walls Tileset_170
+  - first:
+      213: 221601595363105575
+    second: Full Walls Tileset_171
+  - first:
+      213: 6996200071492364177
+    second: Full Walls Tileset_172
+  - first:
+      213: 2972701487584155724
+    second: Full Walls Tileset_173
+  - first:
+      213: -4323299458345978369
+    second: Full Walls Tileset_174
+  - first:
+      213: -6135265308503784066
+    second: Full Walls Tileset_175
+  - first:
+      213: -333819992358565320
+    second: Full Walls Tileset_176
+  - first:
+      213: -6272986006363946549
+    second: Full Walls Tileset_177
+  - first:
+      213: -6011559571087973514
+    second: Full Walls Tileset_178
+  - first:
+      213: 3947547385584805620
+    second: Full Walls Tileset_179
+  - first:
+      213: -1905385847689762290
+    second: Full Walls Tileset_180
+  - first:
+      213: 5218770068102408257
+    second: Full Walls Tileset_181
+  - first:
+      213: -7517735239188835835
+    second: Full Walls Tileset_182
+  - first:
+      213: -4296536042763706471
+    second: Full Walls Tileset_183
+  - first:
+      213: -8168791562141141084
+    second: Full Walls Tileset_184
+  - first:
+      213: -2629068344644208048
+    second: Full Walls Tileset_185
+  - first:
+      213: 5819999552324653156
+    second: Full Walls Tileset_186
+  - first:
+      213: 1955158092725414158
+    second: Full Walls Tileset_187
+  - first:
+      213: 7079540745680204001
+    second: Full Walls Tileset_188
+  - first:
+      213: 5109328172721090715
+    second: Full Walls Tileset_189
+  - first:
+      213: -7299821898134907544
+    second: Full Walls Tileset_190
+  - first:
+      213: -6840049469347170258
+    second: Full Walls Tileset_191
+  - first:
+      213: 6243977979225131181
+    second: Full Walls Tileset_192
+  - first:
+      213: -4654886529136436143
+    second: Full Walls Tileset_193
+  - first:
+      213: 1073651901535583655
+    second: Full Walls Tileset_194
+  - first:
+      213: -5018546893316745031
+    second: Full Walls Tileset_195
+  - first:
+      213: -7845667831383100854
+    second: Full Walls Tileset_196
+  - first:
+      213: -102196738570159594
+    second: Full Walls Tileset_197
+  - first:
+      213: -8306676150653154640
+    second: Full Walls Tileset_198
+  - first:
+      213: -2089797100260261682
+    second: Full Walls Tileset_199
+  - first:
+      213: -5908948042684976091
+    second: Full Walls Tileset_200
+  - first:
+      213: 5109338661056616180
+    second: Full Walls Tileset_201
+  - first:
+      213: 6676186084746428339
+    second: Full Walls Tileset_202
+  - first:
+      213: 1144981774416858287
+    second: Full Walls Tileset_203
+  - first:
+      213: -3326081407690685259
+    second: Full Walls Tileset_204
+  - first:
+      213: 2552458114148616083
+    second: Full Walls Tileset_205
+  - first:
+      213: 8172539170789006601
+    second: Full Walls Tileset_206
+  - first:
+      213: 111048174652558334
+    second: Full Walls Tileset_207
+  - first:
+      213: 7984980909256808671
+    second: Full Walls Tileset_208
+  - first:
+      213: 421201874583212051
+    second: Full Walls Tileset_209
+  - first:
+      213: -8065145506757181504
+    second: Full Walls Tileset_210
+  - first:
+      213: 1985942256040068709
+    second: Full Walls Tileset_211
+  - first:
+      213: 8146705074786031820
+    second: Full Walls Tileset_212
+  - first:
+      213: 3932088147569339654
+    second: Full Walls Tileset_213
+  - first:
+      213: -8800044598468326949
+    second: Full Walls Tileset_214
+  - first:
+      213: -5374186353934558221
+    second: Full Walls Tileset_215
+  - first:
+      213: 3899051193176264544
+    second: Full Walls Tileset_216
+  - first:
+      213: -6085273589412815735
+    second: Full Walls Tileset_217
+  - first:
+      213: -8158254304379121956
+    second: Full Walls Tileset_218
+  - first:
+      213: 8917353223739639376
+    second: Full Walls Tileset_219
+  - first:
+      213: -5691586663431363061
+    second: Full Walls Tileset_220
+  - first:
+      213: -1591881246138618843
+    second: Full Walls Tileset_221
+  - first:
+      213: 6928193772663304717
+    second: Full Walls Tileset_222
+  - first:
+      213: -358781330796849799
+    second: Full Walls Tileset_223
+  - first:
+      213: -4419042590480246497
+    second: Full Walls Tileset_224
+  - first:
+      213: 8696007437105823841
+    second: Full Walls Tileset_225
+  - first:
+      213: -2669284437338377087
+    second: Full Walls Tileset_226
+  - first:
+      213: 6519016467184199345
+    second: Full Walls Tileset_227
+  - first:
+      213: 561638697098770892
+    second: Full Walls Tileset_228
+  - first:
+      213: -4567413174897315740
+    second: Full Walls Tileset_229
+  - first:
+      213: 7898890267609538608
+    second: Full Walls Tileset_230
+  - first:
+      213: 2726996521340902809
+    second: Full Walls Tileset_231
+  - first:
+      213: 6021722195106729045
+    second: Full Walls Tileset_232
+  - first:
+      213: -8304491786480949186
+    second: Full Walls Tileset_233
+  - first:
+      213: -5274480637882118849
+    second: Full Walls Tileset_234
+  - first:
+      213: 7559706141099173063
+    second: Full Walls Tileset_235
+  - first:
+      213: 889825210894521587
+    second: Full Walls Tileset_236
+  - first:
+      213: 8075772227763403484
+    second: Full Walls Tileset_237
+  - first:
+      213: 5699549804037119298
+    second: Full Walls Tileset_238
+  - first:
+      213: -3689301874254500670
+    second: Full Walls Tileset_239
+  - first:
+      213: 2428307052638235121
+    second: Full Walls Tileset_240
+  - first:
+      213: 1368676437150471297
+    second: Full Walls Tileset_241
+  - first:
+      213: 5191929099185785647
+    second: Full Walls Tileset_242
+  - first:
+      213: -8689566058117573547
+    second: Full Walls Tileset_243
+  - first:
+      213: -719383109859973012
+    second: Full Walls Tileset_244
+  - first:
+      213: -3851999179019046140
+    second: Full Walls Tileset_245
+  - first:
+      213: -1193084378117464335
+    second: Full Walls Tileset_246
+  - first:
+      213: -469671129515243702
+    second: Full Walls Tileset_247
+  - first:
+      213: -1204329278920188493
+    second: Full Walls Tileset_248
+  - first:
+      213: -3673792368923988428
+    second: Full Walls Tileset_249
+  - first:
+      213: -181252607339609619
+    second: Full Walls Tileset_250
+  - first:
+      213: 8994733510692590551
+    second: Full Walls Tileset_251
+  - first:
+      213: -828544946406630528
+    second: Full Walls Tileset_252
+  - first:
+      213: -4233647940954446492
+    second: Full Walls Tileset_253
+  - first:
+      213: 5363713144458093286
+    second: Full Walls Tileset_254
+  - first:
+      213: 8695432496650769610
+    second: Full Walls Tileset_255
+  - first:
+      213: -971293939670655298
+    second: Full Walls Tileset_256
+  - first:
+      213: -5690018042820854577
+    second: Full Walls Tileset_257
+  - first:
+      213: 7090388611447967451
+    second: Full Walls Tileset_258
+  - first:
+      213: 4653126042607446041
+    second: Full Walls Tileset_259
+  - first:
+      213: -2273266781550780714
+    second: Full Walls Tileset_260
+  - first:
+      213: -3228328733712785366
+    second: Full Walls Tileset_261
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 74
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Full Walls Tileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d36d4c00ed1aaf90800000000000000
+      internalID: -6941703027521920043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97d8141d7b7ee420800000000000000
+      internalID: 2661200206960842653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b584e22f0fdc24f0800000000000000
+      internalID: -852060973376961100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54e16d70bbb956a0800000000000000
+      internalID: -6459925823794060197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ba95470a642d890800000000000000
+      internalID: -7434802379874522256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6622c97aac454fbf0800000000000000
+      internalID: -291514846500085146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d19ea506e4c39220800000000000000
+      internalID: 2491551511082865109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258f79ee6dd6ed830800000000000000
+      internalID: 4097833480847095890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0306ef8a07e67a780800000000000000
+      internalID: -8671841127327965136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796f7ea269c292200800000000000000
+      internalID: 155704685597554327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6fffaa3ab9aed90800000000000000
+      internalID: -7067665537953696060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051e8b4d99bcf4740800000000000000
+      internalID: 5138549561412346192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7985c24372101ef0800000000000000
+      internalID: -139591302197704325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c57db224ac09e260800000000000000
+      internalID: 7127241784387532230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa9a568b00cafec0800000000000000
+      internalID: -3532299801987474699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9f2e8047adbea30800000000000000
+      internalID: 4245727265626978810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9a8eb237028da20800000000000000
+      internalID: 3087253223592470955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5c831c2f3782d10800000000000000
+      internalID: 2101056712629339600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd0a37745db3b340800000000000000
+      internalID: 4878450991847575004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b38f6819afe3a00800000000000000
+      internalID: 738302891876957002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_20
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5711822fbec7d8a80800000000000000
+      internalID: -8462970771937422987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86564b95a3e362820800000000000000
+      internalID: 2893068230966142312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c33f2baa196614c0800000000000000
+      internalID: -4317147629525978176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dddb70d2d14d1a30800000000000000
+      internalID: 4187575602221145553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_24
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba688de613035da90800000000000000
+      internalID: -7289867432958064981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_25
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b2710e77585b700800000000000000
+      internalID: 555496878957341521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9a6433315b5a740800000000000000
+      internalID: 5162731641919416740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a521bd2c3c74c6af0800000000000000
+      internalID: -401867360629484966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdbcee2085936650800000000000000
+      internalID: 6224983487731777016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162c69236758799a0800000000000000
+      internalID: -6226361217115045279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca970939151aa9730800000000000000
+      internalID: 4006692190239619500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96717b993fd65b710800000000000000
+      internalID: 1708392526680364905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19296c68b7d0e450800000000000000
+      internalID: 6116125481061919003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_33
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adccad90a8e3e2870800000000000000
+      internalID: 8659927896071785690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_34
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856dfd76df8496bc0800000000000000
+      internalID: -3789417358248913320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_35
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4a1866ba56d9ab0800000000000000
+      internalID: -4999728224477797172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_36
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb76bde0c9981630800000000000000
+      internalID: 3898034531390094306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_37
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd54e370823ef410800000000000000
+      internalID: 1512702052124614078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116d79ada1bae7270800000000000000
+      internalID: 8250219699214210577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_39
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1b49f610bb56b60800000000000000
+      internalID: 7738797149547442616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90b0881685ff26f0800000000000000
+      internalID: -707076660188368737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_41
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6977f769e4aebc100800000000000000
+      internalID: 129454637563475862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f36a4107ae27d130800000000000000
+      internalID: 3591390522667328496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_43
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3a95f898b30e770800000000000000
+      internalID: 8637969547298186180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_44
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c62284297e5dc50800000000000000
+      internalID: 6689507436990196880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_45
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bd5b318154b3870800000000000000
+      internalID: 8663594277889497929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064a575f082566db0800000000000000
+      internalID: -4799057639089265568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_47
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2673d8e9802624ef0800000000000000
+      internalID: -125430050453637278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7e71b1839428900800000000000000
+      internalID: 685190598635284429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_49
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce35e5a3b1ff1c390800000000000000
+      internalID: -7799672587220528148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd687ecd663b69a00800000000000000
+      internalID: 762994441260074716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_51
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a2567a4a84c3f40800000000000000
+      internalID: 5709518299619207774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_52
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d01459ec637d3d10800000000000000
+      internalID: 2106967112287523031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e0bdba11dd4a4e0800000000000000
+      internalID: -1971207668913992123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bccfa5e3ba65410800000000000000
+      internalID: 1465547013058513679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_55
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c92d1dd709765a20800000000000000
+      internalID: 3050758872271497664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_56
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0028e2e9021f010800000000000000
+      internalID: 1220792837751308510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_57
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d66886cc6d840c0800000000000000
+      internalID: -4591183646688907939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24aa18e4f02f4aa10800000000000000
+      internalID: 1919925488722225730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_59
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960b77622e481b750800000000000000
+      internalID: 6318977859020370025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fa89e1dcca03260800000000000000
+      internalID: 7075345011580645226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_61
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0fd7e316c3153b0800000000000000
+      internalID: -5525568879448952650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afad3260dbdfa0ea0800000000000000
+      internalID: -5905628973049324806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0af66e2af5982960800000000000000
+      internalID: 7577471274803722765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_64
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7a9c80c414c0720800000000000000
+      internalID: 2813695662020470731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_65
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a766b35760e55310800000000000000
+      internalID: 1393266394131752872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fa04569ca6911b0800000000000000
+      internalID: -5685395641358831828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_67
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ff41a7c774aa500800000000000000
+      internalID: 408217316180164441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_68
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7dd9a3e4c31fcc0800000000000000
+      internalID: -3679093113896446027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_69
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bef406a2a4e5050800000000000000
+      internalID: 5791147716709968668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8ffa3c82da6e180800000000000000
+      internalID: -9086384807580010285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_71
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544a8a55c16437200800000000000000
+      internalID: 176561897907725381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_72
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca34f62b850dfc40800000000000000
+      internalID: 5547596411202452161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_73
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac795696f04db3630800000000000000
+      internalID: 3907950264331900874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb639b86e4461f50800000000000000
+      internalID: 6851739640065649659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_75
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d75ccbd6e9edb00800000000000000
+      internalID: 855295173402656074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_76
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8aecb1cec3fb9c70800000000000000
+      internalID: 8979038351432411787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_77
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f40dc8beaf7ed120800000000000000
+      internalID: 2440528436482868470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_78
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496d339b5d16b2330800000000000000
+      internalID: 3687148290495993492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_79
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bf17b8615b24840800000000000000
+      internalID: 5206923227627125585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_80
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43799ea05ca454060800000000000000
+      internalID: 6937033011186210612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_81
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d9de5e7108a12b0800000000000000
+      internalID: -5613033145433744079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_82
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5593cb24e6909de90800000000000000
+      internalID: -7000553776600041131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_83
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f545e4e1b7f984d80800000000000000
+      internalID: -8266181764900301729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_84
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd14192efbdcdb970800000000000000
+      internalID: 8772393873211212255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_85
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9016d5a80ff89fd0800000000000000
+      internalID: -2334835994184511329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e40edc8c09a18b0800000000000000
+      internalID: -5180669229214445960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_87
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6579fc60f136b86e0800000000000000
+      internalID: -1834263438313941162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_88
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae38aef8874ff0a0800000000000000
+      internalID: -6845674254866301267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_89
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639c3f86889fd6fe0800000000000000
+      internalID: -1194023961911637706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_90
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3cf9fb14b154db0800000000000000
+      internalID: -4808407057946393693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_91
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ce23e6dd1f917b0800000000000000
+      internalID: -5252901557012075449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_92
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7d4ac5024a515a0800000000000000
+      internalID: -6551149624040302676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_93
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1cc06f0dae14ce0800000000000000
+      internalID: -1422597824070237773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_94
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e839341031fc68c0800000000000000
+      internalID: -4004560779839194910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_95
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79b3c6f748fb9eb0800000000000000
+      internalID: -4711899597146703494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_96
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df6c09bd545b7800800000000000000
+      internalID: 611174935952125907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_97
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2e590f71edd8fd0800000000000000
+      internalID: -2337968437133450531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_98
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18e07f4411f7cb50800000000000000
+      internalID: 6613519647351302171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_99
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764269639d3663af0800000000000000
+      internalID: -417036130910329753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_100
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd00edc9a0bee880800000000000000
+      internalID: -8579725996744241727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_101
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423456d458568aa30800000000000000
+      internalID: 4226739873490748196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46a4e9b555f6f940800000000000000
+      internalID: 5329716957579355727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_103
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc0e6975ecc6f920800000000000000
+      internalID: 3023829485782699221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_104
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966025a8fb9b8a8b0800000000000000
+      internalID: -5140654742332897687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_105
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b57acba2cc362c30800000000000000
+      internalID: 4334218498194175414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_106
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e4bb8d6ad6bf710800000000000000
+      internalID: 1728095445394869914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_107
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177566c8000618860800000000000000
+      internalID: 7530405607411963761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_108
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411199ccf2bbe8990800000000000000
+      internalID: -7381756925243223788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_109
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c41453e9316dbd80800000000000000
+      internalID: -8233317642508430136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_110
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2765e3d9f3179470800000000000000
+      internalID: 8401205593605760814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_111
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4c676bdb8190520800000000000000
+      internalID: 2668691457282852066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e246360e459723f0800000000000000
+      internalID: -925607036057140508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_113
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4cb91c3a9bfe320800000000000000
+      internalID: 2589492423740343525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_114
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7783327df7a9430800000000000000
+      internalID: 3790482598371293174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_115
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821fd04239c043420800000000000000
+      internalID: 2608723910258979112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_116
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37291786d00fc0330800000000000000
+      internalID: 3678578936032367219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_117
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b777205d1e9de5c0800000000000000
+      internalID: -4184514630021318735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_118
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df90dfd780eceed20800000000000000
+      internalID: 3309809312032688637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_119
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f5a52c7176c9df0800000000000000
+      internalID: -172149334004310229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_120
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39f45fdae94cc900800000000000000
+      internalID: 706020514708388155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_121
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6e37b68cfff2490800000000000000
+      internalID: -7768709595929516347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_122
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c655932f3d56910800000000000000
+      internalID: 1830101860893420656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_123
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf9ac0ab12e06e30800000000000000
+      internalID: 4494841036405383117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_124
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab083689fd530ea0800000000000000
+      internalID: -5907774959899898961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_125
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1994202c44dc07760800000000000000
+      internalID: 7453683078494570897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_126
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5ad6d97d44fd4b0800000000000000
+      internalID: -5413532534226180661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_127
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0eb408e244fa1730800000000000000
+      internalID: 3970754589678157325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a3dbdba8efd8a60800000000000000
+      internalID: 7678072811578800795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_129
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9d115dfe0231370800000000000000
+      internalID: 8292007553363204527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_130
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374c24e2809507fc0800000000000000
+      internalID: -3499199018796137357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_131
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7907ea78f2c70b300800000000000000
+      internalID: 265848921596522647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_132
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184ce0f9f1bc653e0800000000000000
+      internalID: -2065240042429823871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_133
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e0e6ce9617633d0800000000000000
+      internalID: -3227267383212241393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_134
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fecb7b36f93c1b0800000000000000
+      internalID: -5637487057904537726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_135
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a19dbf74055da10800000000000000
+      internalID: 1933539885123705445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_136
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d224f78952cef0d0800000000000000
+      internalID: -3387056179947232558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_137
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0dcd307e045aef0800000000000000
+      internalID: -97600455972171609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_138
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7762200629c39bcb0800000000000000
+      internalID: -4847776924513982857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_139
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5405fa0096a96a690800000000000000
+      internalID: -7591210346112659387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_140
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508a5d3cddb83ab80800000000000000
+      internalID: -8384704296644139003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_141
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd4e38409f903bc0800000000000000
+      internalID: -3805366243091919408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_142
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5828310cea8578990800000000000000
+      internalID: -7383835556480580987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_143
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1aefa143b2c1370800000000000000
+      internalID: 8294552116500799931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd92baa419dc2070800000000000000
+      internalID: 8083074114009603505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_145
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac888d22905037e80800000000000000
+      internalID: -8182190561204598582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_146
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed56c23a16d8a68e0800000000000000
+      internalID: -1699390458890000930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_147
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e63d226ff923d860800000000000000
+      internalID: 7553427176870983394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_148
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ece23aeed766c470800000000000000
+      internalID: 8414527160897957097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_149
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8146c73b61c67e0800000000000000
+      internalID: -1771015593321555767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_150
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d5c921886a14b00800000000000000
+      internalID: 811112511261400389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_151
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a6c0e016b899db0800000000000000
+      internalID: -4784639880140658152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_152
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1f7a873ca528c60800000000000000
+      internalID: 7818911698657997238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_153
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28e51f54ad654e10800000000000000
+      internalID: 2181270147268208685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_154
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18cc6206db116440800000000000000
+      internalID: 4927250073297668124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_155
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3ff61c4e9f7cc90800000000000000
+      internalID: -7149471122534173792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb15a555c31a4fc00800000000000000
+      internalID: 933548303274627515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_157
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3fcd03cdcb84e80800000000000000
+      internalID: -8194091868102003729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_158
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d98244d6b3114c0800000000000000
+      internalID: -4318605227190608559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_159
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d5756aae4972430800000000000000
+      internalID: 3758136149597969676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_160
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ae453f862e981e0800000000000000
+      internalID: -2194974402979501447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_161
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21fdbdd8a6054860800000000000000
+      internalID: 7513418875682025775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_162
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e181964b6da9c8040800000000000000
+      internalID: 4651262762107344926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_163
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240e1b86fa27b4080800000000000000
+      internalID: -9202135315900145598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_164
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ab4be786bd91ad0800000000000000
+      internalID: -2730910457174639987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_165
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f2ed8efda26c930800000000000000
+      internalID: 4163062046723551087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_166
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b0d1d4829d80920800000000000000
+      internalID: 2956851922484398864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_167
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a709d71ac9324430800000000000000
+      internalID: 3765635778581432226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1484d58635ca08d20800000000000000
+      internalID: 3278810002958927937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_169
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cea56316a6cd9b80800000000000000
+      internalID: -8386328514501693755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_170
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4d63c34384e2fb0800000000000000
+      internalID: -4670716374350900041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_171
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b17451a79431300800000000000000
+      internalID: 221601595363105575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_172
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1976dd6c5ee771160800000000000000
+      internalID: 6996200071492364177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_173
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c489abeb048214920800000000000000
+      internalID: 2972701487584155724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_174
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff536a76c0e8004c0800000000000000
+      internalID: -4323299458345978369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_175
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75cadb35b82bdaa0800000000000000
+      internalID: -6135265308503784066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a4b805c780e5bf0800000000000000
+      internalID: -333819992358565320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_177
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc14ea18670e1f8a0800000000000000
+      internalID: -6272986006363946549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_178
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673a333bb66a29ca0800000000000000
+      internalID: -6011559571087973514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_179
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6edc3ae6188c630800000000000000
+      internalID: 3947547385584805620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_180
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a256caaa5be85e0800000000000000
+      internalID: -1905385847689762290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_181
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1486fa90abbcc6840800000000000000
+      internalID: 5218770068102408257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_182
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50296b071a3aba790800000000000000
+      internalID: -7517735239188835835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_183
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f186eab33af54c0800000000000000
+      internalID: -4296536042763706471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_184
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a77e56ba5f92ae80800000000000000
+      internalID: -8168791562141141084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_185
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05af14b154ca38bd0800000000000000
+      internalID: -2629068344644208048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_186
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4605e35d1cac4c050800000000000000
+      internalID: 5819999552324653156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_187
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09e0ac2ded122b10800000000000000
+      internalID: 1955158092725414158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_188
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e03c279cc49f3260800000000000000
+      internalID: 7079540745680204001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_189
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90bfe717eaf7e640800000000000000
+      internalID: 5109328172721090715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_190
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8651d06e8a2d1ba90800000000000000
+      internalID: -7299821898134907544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_191
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28767d6f334311a0800000000000000
+      internalID: -6840049469347170258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_192
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8431dd3e017a650800000000000000
+      internalID: 6243977979225131181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_193
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c52194d55866fb0800000000000000
+      internalID: -4654886529136436143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_194
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad737b47b066ee00800000000000000
+      internalID: 1073651901535583655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_195
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8173f903a8a5ab0800000000000000
+      internalID: -5018546893316745031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_196
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4273bceca69e1390800000000000000
+      internalID: -7845667831383100854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_197
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a72549b9ce49ef0800000000000000
+      internalID: -102196738570159594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_198
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba0c183d02c8bc80800000000000000
+      internalID: -8306676150653154640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_199
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0885a0c9c8ff2e0800000000000000
+      internalID: -2089797100260261682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_200
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524b587ef033ffda0800000000000000
+      internalID: -5908948042684976091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_201
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f61379117408e640800000000000000
+      internalID: 5109338661056616180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_202
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf77b34fd396ac50800000000000000
+      internalID: 6676186084746428339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_203
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facc9628bdac3ef00800000000000000
+      internalID: 1144981774416858287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_204
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4c090059267d1d0800000000000000
+      internalID: -3326081407690685259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_205
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39744ed91272c6320800000000000000
+      internalID: 2552458114148616083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_206
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d18db6311ba6170800000000000000
+      internalID: 8172539170789006601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_207
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb0f1bf9b58a8100800000000000000
+      internalID: 111048174652558334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_208
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8178aa4d950de60800000000000000
+      internalID: 7984980909256808671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_209
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310d2419fd868d500800000000000000
+      internalID: 421201874583212051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_210
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf76ef74e8d21090800000000000000
+      internalID: -8065145506757181504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_211
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566c4bbb5fb7f8b10800000000000000
+      internalID: 1985942256040068709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_212
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc85e783a19ee0170800000000000000
+      internalID: 8146705074786031820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_213
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60de46d4655919630800000000000000
+      internalID: 3932088147569339654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_214
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd943b4ff06ffd580800000000000000
+      internalID: -8800044598468326949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_215
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb9af81cfd0b65b0800000000000000
+      internalID: -5374186353934558221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_216
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f8552f6663c1630800000000000000
+      internalID: 3899051193176264544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_217
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c9bfd59e3cc8ba0800000000000000
+      internalID: -6085273589412815735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_218
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde4e283fee08ce80800000000000000
+      internalID: -8158254304379121956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_219
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0568fa5c28dc0cb70800000000000000
+      internalID: 8917353223739639376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06a2ddb51c6301b0800000000000000
+      internalID: -5691586663431363061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_221
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c2d47d07088e9e0800000000000000
+      internalID: -1591881246138618843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_222
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d027ba27783e52060800000000000000
+      internalID: 6928193772663304717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_223
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975dfc1d74a550bf0800000000000000
+      internalID: -358781330796849799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_224
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f195a135d286ca2c0800000000000000
+      internalID: -4419042590480246497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_225
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16009dcc0bc6ea870800000000000000
+      internalID: 8696007437105823841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_226
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184b7fb52fbc4fad0800000000000000
+      internalID: -2669284437338377087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_227
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6af6b00f2387a50800000000000000
+      internalID: 6519016467184199345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_228
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc97fa85b675bc700800000000000000
+      internalID: 561638697098770892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_229
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4607ec7aae94d90c0800000000000000
+      internalID: -4567413174897315740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_230
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03028a829de7e9d60800000000000000
+      internalID: 7898890267609538608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_231
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d104e43ec38d520800000000000000
+      internalID: 2726996521340902809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_232
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c0c679e64719350800000000000000
+      internalID: 6021722195106729045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_233
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3867a228b480cc80800000000000000
+      internalID: -8304491786480949186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_234
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d4c542ec74dc6b0800000000000000
+      internalID: -5274480637882118849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_235
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c42e8aaea879e860800000000000000
+      internalID: 7559706141099173063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_236
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f41e87905b495c00800000000000000
+      internalID: 889825210894521587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_237
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda7dcacd08e21070800000000000000
+      internalID: 8075772227763403484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_238
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d9749695ed81f40800000000000000
+      internalID: 5699549804037119298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_239
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cca0ebfd77fcccc0800000000000000
+      internalID: -3689301874254500670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_240
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9e31e066413b120800000000000000
+      internalID: 2428307052638235121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_241
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1841dc0d7f38ef210800000000000000
+      internalID: 1368676437150471297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_242
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b8bf7f1007d0840800000000000000
+      internalID: 5191929099185785647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_243
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5545c9d95b5786780800000000000000
+      internalID: -8689566058117573547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_244
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68616f7fdc3406f0800000000000000
+      internalID: -719383109859973012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_245
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403397bc723fa8ac0800000000000000
+      internalID: -3851999179019046140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_246
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe9d3f4410517fe0800000000000000
+      internalID: -1193084378117464335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_247
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47ccfb98946b79f0800000000000000
+      internalID: -469671129515243702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_248
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd1c51d6ec594fe0800000000000000
+      internalID: -1204329278920188493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_249
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43eaeb71e41140dc0800000000000000
+      internalID: -3673792368923988428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_250
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1c8e4c6bf0c7df0800000000000000
+      internalID: -181252607339609619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_251
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3522ac876b3dc70800000000000000
+      internalID: 8994733510692590551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_252
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bdcf4d2ca6084f0800000000000000
+      internalID: -828544946406630528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_253
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465a857e0af0f35c0800000000000000
+      internalID: -4233647940954446492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_254
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2a48ccfacbf6a40800000000000000
+      internalID: 5363713144458093286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_255
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4d14b09c16ca870800000000000000
+      internalID: 8695432496650769610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_256
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebed079de454582f0800000000000000
+      internalID: -971293939670655298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_257
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc7910bcbef801b0800000000000000
+      internalID: -5690018042820854577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_258
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdec4d820ee166260800000000000000
+      internalID: 7090388611447967451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_259
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9186cb08b79339040800000000000000
+      internalID: 4653126042607446041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_260
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de58fd08ebb370e0800000000000000
+      internalID: -2273266781550780714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full Walls Tileset_261
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20ecd00f1ca233d0800000000000000
+      internalID: -3228328733712785366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Full Walls Tileset_137: -97600455972171609
+      Full Walls Tileset_64: 2813695662020470731
+      Full Walls Tileset_99: -417036130910329753
+      Full Walls Tileset_51: 5709518299619207774
+      Full Walls Tileset_107: 7530405607411963761
+      Full Walls Tileset_10: -7067665537953696060
+      Full Walls Tileset_202: 6676186084746428339
+      Full Walls Tileset_121: -7768709595929516347
+      Full Walls Tileset_214: -8800044598468326949
+      Full Walls Tileset_248: -1204329278920188493
+      Full Walls Tileset_116: 3678578936032367219
+      Full Walls Tileset_161: 7513418875682025775
+      Full Walls Tileset_76: 8979038351432411787
+      Full Walls Tileset_187: 1955158092725414158
+      Full Walls Tileset_130: -3499199018796137357
+      Full Walls Tileset_223: -358781330796849799
+      Full Walls Tileset_157: -8194091868102003729
+      Full Walls Tileset_206: 8172539170789006601
+      Full Walls Tileset_168: 3278810002958927937
+      Full Walls Tileset_249: -3673792368923988428
+      Full Walls Tileset_192: 6243977979225131181
+      Full Walls Tileset_154: 4927250073297668124
+      Full Walls Tileset_14: -3532299801987474699
+      Full Walls Tileset_44: 6689507436990196880
+      Full Walls Tileset_238: 5699549804037119298
+      Full Walls Tileset_40: -707076660188368737
+      Full Walls Tileset_83: -8266181764900301729
+      Full Walls Tileset_66: -5685395641358831828
+      Full Walls Tileset_200: -5908948042684976091
+      Full Walls Tileset_171: 221601595363105575
+      Full Walls Tileset_36: 3898034531390094306
+      Full Walls Tileset_67: 408217316180164441
+      Full Walls Tileset_142: -7383835556480580987
+      Full Walls Tileset_247: -469671129515243702
+      Full Walls Tileset_23: 4187575602221145553
+      Full Walls Tileset_84: 8772393873211212255
+      Full Walls Tileset_151: -4784639880140658152
+      Full Walls Tileset_19: 738302891876957002
+      Full Walls Tileset_85: -2334835994184511329
+      Full Walls Tileset_89: -1194023961911637706
+      Full Walls Tileset_71: 176561897907725381
+      Full Walls Tileset_77: 2440528436482868470
+      Full Walls Tileset_222: 6928193772663304717
+      Full Walls Tileset_122: 1830101860893420656
+      Full Walls Tileset_163: -9202135315900145598
+      Full Walls Tileset_203: 1144981774416858287
+      Full Walls Tileset_39: 7738797149547442616
+      Full Walls Tileset_78: 3687148290495993492
+      Full Walls Tileset_167: 3765635778581432226
+      Full Walls Tileset_236: 889825210894521587
+      Full Walls Tileset_164: -2730910457174639987
+      Full Walls Tileset_27: -401867360629484966
+      Full Walls Tileset_41: 129454637563475862
+      Full Walls Tileset_101: 4226739873490748196
+      Full Walls Tileset_3: -6459925823794060197
+      Full Walls Tileset_160: -2194974402979501447
+      Full Walls Tileset_6: 2491551511082865109
+      Full Walls Tileset_57: -4591183646688907939
+      Full Walls Tileset_117: -4184514630021318735
+      Full Walls Tileset_252: -828544946406630528
+      Full Walls Tileset_82: -7000553776600041131
+      Full Walls Tileset_102: 5329716957579355727
+      Full Walls Tileset_60: 7075345011580645226
+      Full Walls Tileset_119: -172149334004310229
+      Full Walls Tileset_131: 265848921596522647
+      Full Walls Tileset_204: -3326081407690685259
+      Full Walls Tileset_88: -6845674254866301267
+      Full Walls Tileset_47: -125430050453637278
+      Full Walls Tileset_221: -1591881246138618843
+      Full Walls Tileset_232: 6021722195106729045
+      Full Walls Tileset_8: -8671841127327965136
+      Full Walls Tileset_158: -4318605227190608559
+      Full Walls Tileset_72: 5547596411202452161
+      Full Walls Tileset_145: -8182190561204598582
+      Full Walls Tileset_190: -7299821898134907544
+      Full Walls Tileset_38: 8250219699214210577
+      Full Walls Tileset_103: 3023829485782699221
+      Full Walls Tileset_75: 855295173402656074
+      Full Walls Tileset_35: -4999728224477797172
+      Full Walls Tileset_150: 811112511261400389
+      Full Walls Tileset_25: 555496878957341521
+      Full Walls Tileset_132: -2065240042429823871
+      Full Walls Tileset_115: 2608723910258979112
+      Full Walls Tileset_228: 561638697098770892
+      Full Walls Tileset_191: -6840049469347170258
+      Full Walls Tileset_220: -5691586663431363061
+      Full Walls Tileset_234: -5274480637882118849
+      Full Walls Tileset_20: -8462970771937422987
+      Full Walls Tileset_81: -5613033145433744079
+      Full Walls Tileset_92: -6551149624040302676
+      Full Walls Tileset_61: -5525568879448952650
+      Full Walls Tileset_233: -8304491786480949186
+      Full Walls Tileset_70: -9086384807580010285
+      Full Walls Tileset_155: -7149471122534173792
+      Full Walls Tileset_170: -4670716374350900041
+      Full Walls Tileset_237: 8075772227763403484
+      Full Walls Tileset_255: 8695432496650769610
+      Full Walls Tileset_239: -3689301874254500670
+      Full Walls Tileset_12: -139591302197704325
+      Full Walls Tileset_127: 3970754589678157325
+      Full Walls Tileset_147: 7553427176870983394
+      Full Walls Tileset_246: -1193084378117464335
+      Full Walls Tileset_16: 3087253223592470955
+      Full Walls Tileset_79: 5206923227627125585
+      Full Walls Tileset_178: -6011559571087973514
+      Full Walls Tileset_177: -6272986006363946549
+      Full Walls Tileset_63: 7577471274803722765
+      Full Walls Tileset_7: 4097833480847095890
+      Full Walls Tileset_118: 3309809312032688637
+      Full Walls Tileset_140: -8384704296644139003
+      Full Walls Tileset_5: -291514846500085146
+      Full Walls Tileset_48: 685190598635284429
+      Full Walls Tileset_229: -4567413174897315740
+      Full Walls Tileset_149: -1771015593321555767
+      Full Walls Tileset_59: 6318977859020370025
+      Full Walls Tileset_144: 8083074114009603505
+      Full Walls Tileset_181: 5218770068102408257
+      Full Walls Tileset_242: 5191929099185785647
+      Full Walls Tileset_256: -971293939670655298
+      Full Walls Tileset_216: 3899051193176264544
+      Full Walls Tileset_201: 5109338661056616180
+      Full Walls Tileset_73: 3907950264331900874
+      Full Walls Tileset_17: 2101056712629339600
+      Full Walls Tileset_46: -4799057639089265568
+      Full Walls Tileset_174: -4323299458345978369
+      Full Walls Tileset_211: 1985942256040068709
+      Full Walls Tileset_253: -4233647940954446492
+      Full Walls Tileset_133: -3227267383212241393
+      Full Walls Tileset_213: 3932088147569339654
+      Full Walls Tileset_97: -2337968437133450531
+      Full Walls Tileset_80: 6937033011186210612
+      Full Walls Tileset_65: 1393266394131752872
+      Full Walls Tileset_94: -4004560779839194910
+      Full Walls Tileset_136: -3387056179947232558
+      Full Walls Tileset_90: -4808407057946393693
+      Full Walls Tileset_55: 3050758872271497664
+      Full Walls Tileset_2: -852060973376961100
+      Full Walls Tileset_69: 5791147716709968668
+      Full Walls Tileset_193: -4654886529136436143
+      Full Walls Tileset_91: -5252901557012075449
+      Full Walls Tileset_74: 6851739640065649659
+      Full Walls Tileset_11: 5138549561412346192
+      Full Walls Tileset_31: 1708392526680364905
+      Full Walls Tileset_109: -8233317642508430136
+      Full Walls Tileset_124: -5907774959899898961
+      Full Walls Tileset_188: 7079540745680204001
+      Full Walls Tileset_86: -5180669229214445960
+      Full Walls Tileset_100: -8579725996744241727
+      Full Walls Tileset_113: 2589492423740343525
+      Full Walls Tileset_235: 7559706141099173063
+      Full Walls Tileset_230: 7898890267609538608
+      Full Walls Tileset_185: -2629068344644208048
+      Full Walls Tileset_245: -3851999179019046140
+      Full Walls Tileset_176: -333819992358565320
+      Full Walls Tileset_123: 4494841036405383117
+      Full Walls Tileset_208: 7984980909256808671
+      Full Walls Tileset_180: -1905385847689762290
+      Full Walls Tileset_196: -7845667831383100854
+      Full Walls Tileset_49: -7799672587220528148
+      Full Walls Tileset_62: -5905628973049324806
+      Full Walls Tileset_139: -7591210346112659387
+      Full Walls Tileset_134: -5637487057904537726
+      Full Walls Tileset_259: 4653126042607446041
+      Full Walls Tileset_53: -1971207668913992123
+      Full Walls Tileset_18: 4878450991847575004
+      Full Walls Tileset_198: -8306676150653154640
+      Full Walls Tileset_13: 7127241784387532230
+      Full Walls Tileset_199: -2089797100260261682
+      Full Walls Tileset_37: 1512702052124614078
+      Full Walls Tileset_258: 7090388611447967451
+      Full Walls Tileset_184: -8168791562141141084
+      Full Walls Tileset_110: 8401205593605760814
+      Full Walls Tileset_240: 2428307052638235121
+      Full Walls Tileset_156: 933548303274627515
+      Full Walls Tileset_56: 1220792837751308510
+      Full Walls Tileset_111: 2668691457282852066
+      Full Walls Tileset_173: 2972701487584155724
+      Full Walls Tileset_251: 8994733510692590551
+      Full Walls Tileset_28: 6224983487731777016
+      Full Walls Tileset_29: -6226361217115045279
+      Full Walls Tileset_33: 8659927896071785690
+      Full Walls Tileset_52: 2106967112287523031
+      Full Walls Tileset_146: -1699390458890000930
+      Full Walls Tileset_195: -5018546893316745031
+      Full Walls Tileset_15: 4245727265626978810
+      Full Walls Tileset_129: 8292007553363204527
+      Full Walls Tileset_105: 4334218498194175414
+      Full Walls Tileset_183: -4296536042763706471
+      Full Walls Tileset_108: -7381756925243223788
+      Full Walls Tileset_45: 8663594277889497929
+      Full Walls Tileset_189: 5109328172721090715
+      Full Walls Tileset_254: 5363713144458093286
+      Full Walls Tileset_68: -3679093113896446027
+      Full Walls Tileset_210: -8065145506757181504
+      Full Walls Tileset_148: 8414527160897957097
+      Full Walls Tileset_243: -8689566058117573547
+      Full Walls Tileset_186: 5819999552324653156
+      Full Walls Tileset_241: 1368676437150471297
+      Full Walls Tileset_226: -2669284437338377087
+      Full Walls Tileset_4: -7434802379874522256
+      Full Walls Tileset_207: 111048174652558334
+      Full Walls Tileset_128: 7678072811578800795
+      Full Walls Tileset_162: 4651262762107344926
+      Full Walls Tileset_169: -8386328514501693755
+      Full Walls Tileset_175: -6135265308503784066
+      Full Walls Tileset_42: 3591390522667328496
+      Full Walls Tileset_87: -1834263438313941162
+      Full Walls Tileset_257: -5690018042820854577
+      Full Walls Tileset_260: -2273266781550780714
+      Full Walls Tileset_0: -6941703027521920043
+      Full Walls Tileset_106: 1728095445394869914
+      Full Walls Tileset_205: 2552458114148616083
+      Full Walls Tileset_153: 2181270147268208685
+      Full Walls Tileset_179: 3947547385584805620
+      Full Walls Tileset_138: -4847776924513982857
+      Full Walls Tileset_224: -4419042590480246497
+      Full Walls Tileset_225: 8696007437105823841
+      Full Walls Tileset_227: 6519016467184199345
+      Full Walls Tileset_21: 2893068230966142312
+      Full Walls Tileset_58: 1919925488722225730
+      Full Walls Tileset_112: -925607036057140508
+      Full Walls Tileset_50: 762994441260074716
+      Full Walls Tileset_152: 7818911698657997238
+      Full Walls Tileset_159: 3758136149597969676
+      Full Walls Tileset_32: 6116125481061919003
+      Full Walls Tileset_93: -1422597824070237773
+      Full Walls Tileset_182: -7517735239188835835
+      Full Walls Tileset_1: 2661200206960842653
+      Full Walls Tileset_126: -5413532534226180661
+      Full Walls Tileset_219: 8917353223739639376
+      Full Walls Tileset_209: 421201874583212051
+      Full Walls Tileset_26: 5162731641919416740
+      Full Walls Tileset_165: 4163062046723551087
+      Full Walls Tileset_54: 1465547013058513679
+      Full Walls Tileset_172: 6996200071492364177
+      Full Walls Tileset_114: 3790482598371293174
+      Full Walls Tileset_212: 8146705074786031820
+      Full Walls Tileset_141: -3805366243091919408
+      Full Walls Tileset_166: 2956851922484398864
+      Full Walls Tileset_43: 8637969547298186180
+      Full Walls Tileset_143: 8294552116500799931
+      Full Walls Tileset_217: -6085273589412815735
+      Full Walls Tileset_215: -5374186353934558221
+      Full Walls Tileset_197: -102196738570159594
+      Full Walls Tileset_135: 1933539885123705445
+      Full Walls Tileset_22: -4317147629525978176
+      Full Walls Tileset_218: -8158254304379121956
+      Full Walls Tileset_24: -7289867432958064981
+      Full Walls Tileset_95: -4711899597146703494
+      Full Walls Tileset_261: -3228328733712785366
+      Full Walls Tileset_96: 611174935952125907
+      Full Walls Tileset_98: 6613519647351302171
+      Full Walls Tileset_9: 155704685597554327
+      Full Walls Tileset_30: 4006692190239619500
+      Full Walls Tileset_231: 2726996521340902809
+      Full Walls Tileset_120: 706020514708388155
+      Full Walls Tileset_104: -5140654742332897687
+      Full Walls Tileset_125: 7453683078494570897
+      Full Walls Tileset_34: -3789417358248913320
+      Full Walls Tileset_194: 1073651901535583655
+      Full Walls Tileset_244: -719383109859973012
+      Full Walls Tileset_250: -181252607339609619
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
